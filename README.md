@@ -14,3 +14,8 @@ If you find any issues, they can be submitted to our [JIRA](https://simp-project
 Please read our [Contribution Guide](https://simp.readthedocs.io/en/stable/contributors_guide/index.html).
 
 # This module is empty on purpose, and is intended to contain site-specific classes.
+#
+#  This module is not required after SIMP 6.4.0.  It is updated here to aid in
+#  upgrading systems to 6.4.0.  Once on 6.4.0  you can remove this module using
+#  yum remove pupmod-simp-site.
+#

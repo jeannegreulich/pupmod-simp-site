@@ -1,3 +1,8 @@
+* Mon May 20 2019 Jeanne Greulich <jeanne.greulich@onyxpoint.com> - 2.1.0-0
+- Updated dependencies to be compatible with SIMP-6.4.0 to  allow for
+  upgrade to simp 6.4.0.   Once on simp-6.4.0 or later this module
+  is not required and should be removed.
+
 * Thu Mar 07 2019 Liz Nemsick <lnemsick.simp@gmail.com> - 2.0.6-0
 - Update the upper bound of stdlib to < 6.0.0
 - Update a URL in the README.md
